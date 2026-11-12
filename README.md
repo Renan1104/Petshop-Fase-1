@@ -1,6 +1,6 @@
 # Projeto Fase 1 - Plataforma Online PetShop Amigo Fiel
 
-Esse repositório contem o código-fonte referente à **Fase 1** do projeto prático da disciplina de **Fundamentos de Sistemas Web** (PUCRS).
+Esse repositório tem o código-fonte referente a **Fase 1** do projeto da disciplina de **Fundamentos de Sistemas Web** (PUCRS).
 
 ## Autor
 * **Aluno:** Renan França Canto
