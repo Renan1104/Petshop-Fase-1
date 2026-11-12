@@ -3,14 +3,14 @@
 Esse repositório contem o código-fonte referente à **Fase 1** do projeto prático da disciplina de **Fundamentos de Sistemas Web** (PUCRS).
 
 ## Autor
-* **Estudante:** Renan França Canto
+* **Aluno:** Renan França Canto
 
 ## Sobre o Projeto
 O sistema consiste na estrutura inicial (front-end) de uma plataforma web para um petshop, desenvolvida estritamente em **HTML5 puro** (sem utilização de CSS, Bootstrap ou JavaScript,
 conforme os requisitos da Fase 1).
 
 ## Funcionalidades da Página Web (Arquivo de Ajuda)
-A página principal (index.html) está estruturada em três blocos semânticos principais e oferece as seguintes funcionalidades de navegação e visualização:
+A página principal (index.html) está montada em três blocos principais e oferece as seguintes funcões de navegação e visualização:
 
 1. **Cabeçalho (header):**
    * Apresenta o nome do petshop, slogan, endereço físico e telefone de contato.
